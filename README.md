@@ -1,5 +1,6 @@
 # Обо мне
 **Я начала изучать блок GIT**
+
 _GIT_- это система контроля версий.
 
 Еще я знаю язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown)
